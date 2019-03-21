@@ -16,5 +16,5 @@ This project just for myself to mark some awesome projects.
 - None.
 
 **4 - tool**  
-- None.
+- SwitchyOmega : https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList
 - 
