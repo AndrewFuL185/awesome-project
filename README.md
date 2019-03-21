@@ -16,5 +16,5 @@ This project just for myself to mark some awesome projects.
 - None.
 
 **4 - tool**  
-- SwitchyOmega : https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList
+- SwitchyOmega(++用于自动切换代理服务器的Chrome工具++) : https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList 
 - 
