@@ -4,7 +4,7 @@ This project just for myself to mark some awesome projects.
 **Update time 20/03/2019**: Add some new projects' address.
 
 **1 - machine learning**  
-- None.
+- TensorFlow中文社区 : http://www.tensorfly.cn/
 - None.
 
 **2 - algorithm**  
