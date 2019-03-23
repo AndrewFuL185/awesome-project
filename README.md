@@ -5,7 +5,7 @@ This project just for myself to mark some awesome projects.
 
 **1 - machine learning**  
 - TensorFlow中文社区 : http://www.tensorfly.cn/
-- None.
+- 算法/深度学习/NLP面试笔记 : https://github.com/imhuay/Algorithm_Interview_Notes-Chinese?utm_source=gold_browser_extension
 
 **2 - algorithm**  
 - None.
