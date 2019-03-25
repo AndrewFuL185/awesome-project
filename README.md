@@ -14,8 +14,8 @@ This project just for myself to mark some awesome projects.
 - None.
 
 **3 - music stuff**  
-- None.
-- None.
+- Spotify Developer Api : https://developer.spotify.com/  
+- Spotify-Downloader : https://github.com/ritiek/spotify-downloader  
 
 **4 - tool**  
 - SwitchyOmega(++用于自动切换代理服务器的Chrome工具++) : https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList 
