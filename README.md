@@ -19,7 +19,7 @@ This project just for myself to mark some awesome projects.
 
 **4 - tool**  
 - SwitchyOmega(++用于自动切换代理服务器的Chrome工具++) : https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList 
-- None.
+- Pytype(检查python语法) : https://github.com/google/pytype  
 
 **5 - computer**
 -  中国科学技术大学课程资源 : https://github.com/USTC-Resource/USTC-Course?utm_source=gold_browser_extension
