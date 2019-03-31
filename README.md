@@ -30,3 +30,6 @@ This project just for myself to mark some awesome projects.
 
 **7 - science**
 - 相对论相关文章目录 : https://zhuanlan.zhihu.com/p/43174845
+
+**8 - skill**
+- 《我也有话要说》—— 普通人的当众讲话技能 : https://github.com/xiaolai/public-speaking-with-meaning?utm_source=gold_browser_extension  
