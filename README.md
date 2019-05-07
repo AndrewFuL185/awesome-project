@@ -7,6 +7,7 @@ This project just for myself to mark some awesome projects.
 - TensorFlow中文社区 : http://www.tensorfly.cn/
 - 算法/深度学习/NLP面试笔记 : https://github.com/imhuay/Algorithm_Interview_Notes-Chinese?utm_source=gold_browser_extension
 - 强化学习如何入门 : https://www.itcodemonkey.com/article/3646.html
+- 精通特征工程 : https://github.com/apachecn/feature-engineering-for-ml-zh  
 
 **2 - algorithm**  
 - [x] 梯度下降法与反向传播 : https://www.cnblogs.com/softzrp/p/6718909.html
